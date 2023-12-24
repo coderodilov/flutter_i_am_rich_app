@@ -1,10 +1,12 @@
-# lesson_1
+# I am rich
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![Screenshot_20231219_112044](https://github.com/coderodilov/flutter_i_am_rich_app/assets/91076403/2beef6fd-0f55-41f6-b837-42389550eefb)
+
+![UML I'm Rich drawio](https://github.com/coderodilov/flutter_i_am_rich_app/assets/91076403/66367031-5233-4dea-bcb5-4acf6856a097)
 
 A few resources to get you started if this is your first Flutter project:
 
